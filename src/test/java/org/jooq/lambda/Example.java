@@ -35,6 +35,7 @@ public class Example {
                 Agg.avg(Person::getWeight)
            );
 
+
         System.out.println(r1);
         System.out.println();
 
